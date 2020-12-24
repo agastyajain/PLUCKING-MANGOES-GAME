@@ -73,35 +73,35 @@ function draw() {
 
 
 	if(isTouching(stone,mango1)){
-		mango1.isStatic=true;
+		mango1.isStatic=false;
 	}
 
 	if(isTouching(stone,mango2)){
-		mango2.isStatic=true;
+		mango2.isStatic=false;
 	}
 	if(isTouching(stone,mango3)){
-		mango3.isStatic=true;
+		mango3.isStatic=false;
 	}
 	if(isTouching(stone,mango4)){
-		mango4.isStatic=true;
+		mango4.isStatic=false;
 	}
 	if(isTouching(stone,mango5)){
-		mango5.isStatic=true;
+		mango5.isStatic=false;
 	}
 	if(isTouching(stone,mango6)){
-		mango6.isStatic=true;
+		mango6.isStatic=false;
 	}
 	if(isTouching(stone,mango7)){
-		mango7.isStatic=true;
+		mango7.isStatic=false;
 	}
 	if(isTouching(stone,mango8)){
-		mango8.isStatic=true;
+		mango8.isStatic=false;
 	}
 	if(isTouching(stone,mango9)){
-		mango9.isStatic=true;
+		mango9.isStatic=false;
 	}
 	if(isTouching(stone,mango10)){
-		mango10.isStatic=true;
+		mango10.isStatic=false;
 	}
 	
 	
